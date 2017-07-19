@@ -19,7 +19,25 @@
   * 8 Port USB Hub
   * PDU
 * Clear Case Containing Cables
-  * TODO: Inventory Case
+  * Korg nanoKontrol 2 + USB Cable
+  * 2x 3-Prong (Orange) Ext Cords (Nema 5-15 P/R)
+  * 3-Prong (Green) Ext Cords to 3 Receptacles (Nema 5-15 P/3port R)
+  * 3x 320 C13 (Black) Universal Power Cables
+  * 1/8inch Right Angle balanced audio patch cable
+  * Male XLR to 1/4inch unbalanced audio cable
+  * 2x XLR Male - Female Cable
+  * 2x Long HDMI cable
+  * 1x Short HDMI cable
+  * 2x Cat6 Ethernet Cables
+  * Mini Tripod
+  * Pouch
+    * Seagate 500GB USB 3.0 Drive + Cable
+    * Apple USB-C Digital AV Multiport Adapter
+    * 2x Female HDMI -> Apple DP
+    * Female HDMI -> DisplayPort
+    * Female <-> Female HDMI Coupler
+    * Male 1/8inch Balanced Audio Cable to Female 2way balanced 1/8inch splitter
+    * 1/8inch -> 1/4inch balanced jack-plug adapter
 * Screen
   * Conduit plus Feet
   * King Size Sheet
