@@ -34,7 +34,7 @@
     * Seagate 500GB USB 3.0 Drive + Cable
     * 2x Female HDMI -> Apple DP
     * Female HDMI -> DisplayPort
-    * Female -> Female HDMI Coupler
+    * Female <-> Female HDMI Coupler
     * Male 1/8inch Balanced Audio Cable to Female 2way balanced 1/8inch splitter
     * 1/8inch -> 1/4inch balanced jack-plug adapter
 * Screen
