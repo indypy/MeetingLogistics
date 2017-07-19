@@ -32,7 +32,7 @@
   * Mini Tripod
   * Pouch
     * Seagate 500GB USB 3.0 Drive + Cable
-    * USB-C hub + HDMI Adapter
+    * Apple USB-C Digital AV Multiport Adapter
     * 2x Female HDMI -> Apple DP
     * Female HDMI -> DisplayPort
     * Female <-> Female HDMI Coupler
